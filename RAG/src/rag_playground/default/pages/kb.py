@@ -36,7 +36,8 @@ def build_page(client: chat_client.ChatClient) -> gr.Blocks:
         gr.Markdown(f"# {TITLE}")
 
         with gr.Row():
-            upload_button = gr.UploadButton("Add File", file_types=["pdf"], file_count="multiple")
+            #upload_button = gr.UploadButton("Add File", file_types=["pdf","txt"], file_count="multiple")
+            upload_button = gr.UploadButton("Add File", file_count="multiple")
         with gr.Row():
             file_output = gr.File()
 

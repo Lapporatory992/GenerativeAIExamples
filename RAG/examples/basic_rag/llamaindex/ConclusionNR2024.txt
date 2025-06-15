@@ -1,0 +1,42 @@
+3. CDAD Comments
+Conclusion
+Credit Officer
+CDAD Recommendation with Rationale
+Unconditional Approval
+Elizabeth DiLullo
+CCA
+Senior Credit officer
+No
+Shunsuke Kisnimoto
+CDAD grants Unconditional Approval (i) to extend this existing facility by one year and (ii) to renew the obligor grading at la.
+The application is subject to SCO approval under Rule 8.
+Borrower/Parent/Servicer
+Corporate Finance Ver 4 (2022/11/04)
+Page 13127
+SMBC
+•
+Obligor is an SPV backed by a pool of trade receivables comprised of freight and interline receivables owed to NSRC (onginator and Parent NSC (performance guarantor for NSRC) is one of the largest freight rail lines in the US, operating primarily in the eastern US.
+Notwithstanding the material amounts set aside for the derailment expenses, NSC's performance has been acceptable. Leverage is up in FY23 given increased debt associated it its CSR acquisition and lower EBITDA, liquidity remains solid. NSC has maintained ratings of BBB+/Baa1 for 10+ years.
+Servicer risks are mitigated by termination events triggered on an NSC DG below BBB-/Baa3, cross default ($50mm), and other events.
+Commingling risk is mitigated as collections are directed to accounts in the name of the SPV and subject to DACAs that allow the lenders to assume control of the collections following an EoD
+Portio lo Peniormance
+The receivables portfolio is large and adequately diversified, with just one underlying obligor (JB Hunt) regularly above 5%; top 10 obligors comprise < 25% of the aggregate portfolio. Performance of the receivables over the past 24 months is strong, with stable delinquencies, minimal defaults (<1.0% default ratio) and typical dilution volatility.
+The portfolio tums quickly, as measured by the average 32 days DSO
+The facility's trigger levels are considered reasonably tight to actual performance, which is credit positive. Note that the facility is structured such that reserves increase (on a monthly basis) it performance deteriorates.
+Obligor Grade
+CDAD concurs that the securitization borrower has been appropriately graded at la with appropriate inputs using the IRBA Top Down and Bottom Up approach (JB Hunt is the sole underlying obligor captured in the bottom up).
+The facility features typical eligibility criteria, ratings-based concentration limits and minimum (floor) loss and dilution reserves targeting an implied A structure. 91+ DPI receivables are ineligible for funding. The dynamic nature of the reserves provides incremental overcollateralization, as the reserves increase with any deterioration in performance; any spikes in loss or dilution over the prior 12 months remain a factor in the reserve levels, providing additional enhancement. The facility's early termination triggers can be considered reasonably tight to performance, which is positive.
+The facility provides for a limited amount of contractual dilution (max $90mm) to be eligible for funding; over the past 24 months, that amount has averaged $59mm, of an average $730mm eligible receivables balance. This amount is also comfortably below the excess receivables pledged to the facility over the past 24 months per the February 2024 servicing report. This is acceptable given the strength of NSC and the consistently high level of excess receivables pledged to the facility.
+The facility also permits an amount of fully earned, but unbilled, receivables in eligible receivables; this is mitigated by the gross-up applied to the calculation of obligor concentrations, which results in an artificially high level of an obligor's receivables being excluded for funding; below is an example of that calculation for March 2024, prior to the gross up, no concentration excess actually exists
+Ford Motor Company
+Eligible
+Receivables
+Gross Up
+Factor
+Grossed up
+Eligible
+Receivables
+Appicable
+Concentration Concentration Excess Anount.
+Limit
+Limit
